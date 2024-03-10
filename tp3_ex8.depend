@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1710031444 source:y:\c++\projects_c++\tp3_ex8\main.cpp
+	<iostream>
+	<vector>
+	"Student.h"
+	"School.h"
+	<windows.h>
+
+1710030602 y:\c++\projects_c++\tp3_ex8\student.h
+
+1710030658 y:\c++\projects_c++\tp3_ex8\school.h
+
